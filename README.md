@@ -107,18 +107,18 @@ ipywidgets
 The dataset was cleaned and preprocessed before performing Exploratory Data Analysis and building the prediction model.
 
 ---
-# 💻 Technology Stack
+# Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
-| 🐍 Python | Programming Language |
-| 🐼 Pandas | Data Cleaning & Manipulation |
-| 🔢 NumPy | Numerical Computation |
-| 📊 Matplotlib | Data Visualization |
-| 📈 Seaborn | Statistical Visualization |
-| 🤖 Scikit-Learn | Machine Learning Model |
-| 📓 Google Colab | Development Environment |
-| 🎛️ ipywidgets | Interactive Price Prediction Widget |
+|  Python | Programming Language |
+|  Pandas | Data Cleaning & Manipulation |
+|  NumPy | Numerical Computation |
+|  Matplotlib | Data Visualization |
+|  Seaborn | Statistical Visualization |
+|  Scikit-Learn | Machine Learning Model |
+|  Google Colab | Development Environment |
+|  ipywidgets | Interactive Price Prediction Widget |
 
 ---
 
@@ -134,7 +134,7 @@ ipywidgets
 ```
 
 ---
-# 🔄 Project Workflow
+# Project Workflow
 
 ```text
                 Bengaluru House Price Dataset
@@ -238,16 +238,16 @@ The dataset was explored using statistical techniques and visualizations to unde
 
 After performing data cleaning, exploratory analysis, and model development, the following insights were observed:
 
-- 📍 **Location** is one of the most influential factors affecting house prices.
-- 📐 Properties with larger **Total Square Feet** generally command higher prices.
-- 🛏️ Houses with more bedrooms and bathrooms tend to have higher market values.
-- 📊 Several **outliers** were detected in price and area-related features and handled during preprocessing.
-- 🔍 Correlation analysis helped identify relationships between important numerical features.
-- 🤖 An interactive Machine Learning model was successfully developed to estimate house prices based on user-selected inputs.
+-  **Location** is one of the most influential factors affecting house prices.
+-  Properties with larger **Total Square Feet** generally command higher prices.
+-  Houses with more bedrooms and bathrooms tend to have higher market values.
+-  Several **outliers** were detected in price and area-related features and handled during preprocessing.
+-  Correlation analysis helped identify relationships between important numerical features.
+-  An interactive Machine Learning model was successfully developed to estimate house prices based on user-selected inputs.
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Bengaluru-House-Price-Prediction
@@ -271,7 +271,7 @@ Bengaluru-House-Price-Prediction
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository
 
