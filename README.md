@@ -43,7 +43,7 @@
 - [Author](#author)
 
 ---
-# 📖 Project Overview
+# Project Overview
 
 Real estate pricing depends on multiple factors such as location, total square footage, number of bedrooms, bathrooms, and property characteristics.
 
@@ -76,7 +76,7 @@ The dataset contains information about residential properties in Bengaluru, incl
 - Bathrooms
 - Balcony
 
-# 💻 Technology Stack
+# Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
