@@ -80,14 +80,14 @@ The dataset contains information about residential properties in Bengaluru, incl
 
 | Technology | Purpose |
 |------------|---------|
-| 🐍 Python | Programming Language |
-| 🐼 Pandas | Data Cleaning & Manipulation |
-| 🔢 NumPy | Numerical Computation |
-| 📊 Matplotlib | Data Visualization |
-| 📈 Seaborn | Statistical Visualization |
-| 🤖 Scikit-Learn | Machine Learning Model |
-| 📓 Google Colab | Development Environment |
-| 🎛️ ipywidgets | Interactive Price Prediction Widget |
+| Python | Programming Language |
+| Pandas | Data Cleaning & Manipulation |
+| NumPy | Numerical Computation |
+| Matplotlib | Data Visualization |
+| Seaborn | Statistical Visualization |
+| Scikit-Learn | Machine Learning Model |
+| Google Colab | Development Environment |
+| ipywidgets | Interactive Price Prediction Widget |
 
 ---
 
